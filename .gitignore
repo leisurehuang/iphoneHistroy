@@ -38,4 +38,4 @@ jspm_packages
 
 # build file
 /node_modules
-/dist
+#/dist
